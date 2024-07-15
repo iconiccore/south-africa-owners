@@ -1,0 +1,21 @@
+<svg width="45" height="45" viewBox="0 0 45 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_9_421)">
+<path d="M6.5625 5.625H42.1875C42.6848 5.625 43.1617 5.82254 43.5133 6.17417C43.865 6.52581 44.0625 7.00272 44.0625 7.5V12.1875" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M6.5625 34.6875C6.5625 34.1312 6.39755 33.5875 6.08851 33.125C5.77947 32.6624 5.34022 32.302 4.8263 32.0891C4.31238 31.8762 3.74688 31.8205 3.20131 31.929C2.65574 32.0376 2.1546 32.3054 1.76126 32.6988C1.36793 33.0921 1.10006 33.5932 0.991543 34.1388C0.883022 34.6844 0.938719 35.2499 1.15159 35.7638C1.36446 36.2777 1.72495 36.717 2.18746 37.026C2.64997 37.335 3.19374 37.5 3.75 37.5H17.8125" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M6.5625 34.6875V4.6875C6.5625 3.94158 6.26618 3.22621 5.73874 2.69876C5.21129 2.17132 4.49592 1.875 3.75 1.875C3.00408 1.875 2.28871 2.17132 1.76126 2.69876C1.23382 3.22621 0.9375 3.94158 0.9375 4.6875V34.6875" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M15.9375 43.125H44.0625V15L15.9375 43.125Z" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M39.375 37.5V27.1875L29.0625 37.5H39.375Z" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M11.25 10.3125H22.5V21.5625H11.25V10.3125Z" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M22.5 28.125C26.1244 28.125 29.0625 25.1869 29.0625 21.5625C29.0625 17.9381 26.1244 15 22.5 15C18.8756 15 15.9375 17.9381 15.9375 21.5625C15.9375 25.1869 18.8756 28.125 22.5 28.125Z" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M36.5625 9.375H38.4375C38.9348 9.375 39.4117 9.57254 39.7633 9.92418C40.115 10.2758 40.3125 10.7527 40.3125 11.25V13.125" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M24.375 43.125V40.3125" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M29.0625 43.125V40.3125" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M33.75 43.125V40.3125" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+<path d="M38.4375 43.125V40.3125" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_9_421">
+<rect width="45" height="45" fill="white"/>
+</clipPath>
+</defs>
+</svg>
