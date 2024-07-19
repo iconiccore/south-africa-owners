@@ -32,7 +32,7 @@ const HomePage = () => {
 
         <Header />
 
-        <div className="w-full h-full md:h-screen bg-hero bg-center bg-no-repeat bg-cover px-4 sm:px-0">
+        <div className="w-full h-full md:h-screen bg-hero bg-center bg-no-repeat bg-cover sm:px-0">
             <div className="container mx-auto">
                 <div className="w-full h-screen flex items-center justify-center">
                     <div className="flex items-center justify-between flex-col md:flex-row">
@@ -53,7 +53,7 @@ const HomePage = () => {
         </div>
 
         {/* Services */}
-        <div className="w-full mt-20 px-4 sm:px-0" id='services'>
+        <div className="w-full mt-20 px-0" id='services'>
             <div className="container mx-auto">
                 <h2 className='text-xl sm:text-3xl text-center mt-20 mb-10 md:mb-20 font-semibold'>Vacation Rental Management</h2>
 
@@ -72,14 +72,14 @@ const HomePage = () => {
                             <div>
                                 <div className="flex items-center gap-4 mb-4 flex-col sm:flex-row">
                                     <Image src={Support}/>
-                                    <h3 className='text-xl sm:text-2xl font-semibold'>Management Support</h3>
+                                    <h3 className='text-lg sm:text-2xl font-semibold'>Management Support</h3>
                                 </div>
                                 <p className='font-light text-[#0A0A0A] text-justify text-sm'>Our guest management team is on-hand to provide 24/7 support, addressing any issues as they arise. Our accounting team deals with payments, platform fees, taxes and insurance; while our admin support team ensures compliance with the Dubai government. Our client support team is also available via our app or by email for any queries.</p>
                             </div>
                             <div>
                                 <div className="flex items-center gap-4 mb-4 flex-col sm:flex-row">
                                     <Image src={Listing}/>
-                                    <h3 className='text-2xl font-semibold'>Listing Management</h3>
+                                    <h3 className='text-lg sm:text-2xl font-semibold'>Listing Management</h3>
                                 </div>
                                 <p className='font-light text-[#0A0A0A] text-justify text-sm'>Our in-house writing team and professional photography team will create the perfect profile to appeal to guests. Using our market knowledge, we can highlight your property’s top features to help it attract utmost attention.</p>
                             </div>
@@ -88,7 +88,7 @@ const HomePage = () => {
                             <div>
                                 <div className="flex items-center gap-4 mb-4 flex-col sm:flex-row">
                                     <Image src={Clean}/>
-                                    <h3 className='text-2xl font-semibold'>Cleaning & Maintenance</h3>
+                                    <h3 className='text-lg sm:text-2xl font-semibold'>Cleaning & Maintenance</h3>
                                 </div>
                                 <p className='font-light text-[#0A0A0A] text-justify text-sm'>Our guest management team is on-hand to provide 24/7 support, addressing any issues as they arise. Our accounting team deals with payments, platform fees, taxes and insurance; while our admin support team ensures compliance with the Dubai government. Our client support team is also available via our app or by email for any queries.</p>
                             </div>
@@ -96,7 +96,7 @@ const HomePage = () => {
                             <div>
                                 <div className="flex items-center gap-4 mb-4 flex-col sm:flex-row">
                                     <Image src={Interior}/>
-                                    <h3 className='text-2xl font-semibold'>Interior Design</h3>
+                                    <h3 className='text-lg sm:text-2xl font-semibold'>Interior Design</h3>
                                 </div>
                                 <p className='font-light text-[#0A0A0A] text-justify text-sm'>If your property needs furnishing, we offer bespoke interior design services with a rapid turnaround time. From utilities and furniture to art and accessories, we can finish your home to a premium standard so that it looks first-rate and attracts guests all year round.</p>
                             </div>
@@ -104,7 +104,7 @@ const HomePage = () => {
                             <div>
                                 <div className="flex items-center gap-4 mb-4 flex-col sm:flex-row">
                                     <Image src={Revenue}/>
-                                    <h3 className='text-2xl font-semibold'>Estimate Revenuw</h3>
+                                    <h3 className='text-lg sm:text-2xl font-semibold'>Estimate Revenuw</h3>
                                 </div>
                                 <p className='font-light text-[#0A0A0A] text-justify text-sm'>Once you’ve reached out to us, the pricing team will send you a revenue projection based on your property’s size, location and features. While figures can vary, we’ll manage your property so that positive ratings and bookings keep on coming — ensuring that you receive maximum revenue for stays in your home.</p>
                             </div>

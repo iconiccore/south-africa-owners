@@ -9,7 +9,7 @@ const Header = () => {
     const [isOpen, setIsOpen] = useState(false)
 
     return <>
-        <header className='px-4 py-8 sm:py-0 sm:px-0'>
+        <header className='py-8 sm:py-0 sm:px-0'>
             <div className="container mx-auto">
                 <div className="flex items-center justify-between">
                     {/* Logo */}
